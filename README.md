@@ -108,22 +108,23 @@ Copy code
 curl -X POST -F 'image=@path_to_your_image' http://localhost:5000/predict
 The API will return a JSON response with the predicted class and the confidence score.
 
-Contributing
+# Contributing
 Contributions are welcome! If you have any ideas, suggestions, or bug reports, please:
 
-Fork the repository.
-Create a feature branch (git checkout -b feature-branch).
-Commit your changes (git commit -m 'Add feature').
-Push to the branch (git push origin feature-branch).
-Open a Pull Request and describe the changes.
-Please make sure your contributions adhere to the repository's coding standards and are well-tested.
+# Fork the repository.
+- Create a feature branch (git checkout -b feature-branch).
+- Commit your changes (git commit -m 'Add feature').
+- Push to the branch (git push origin feature-branch).
+- Open a Pull Request and describe the changes.
+- Please make sure your contributions adhere to the repository's coding standards and are well-tested.
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact
+# Contact
 If you have any questions or suggestions regarding the project, feel free to contact:
 
-Email: Hossainmurad0201@gmail.com
-GitHub: @Hossainmurad0201
-LinkedIn: https://www.linkedin.com/in/murad-hossain-ba27961a8/
+- Email: Hossainmurad0201@gmail.com
+- GitHub: @Hossainmurad0201
+- LinkedIn: https://www.linkedin.com/in/murad-hossain-ba27961a8/
+
